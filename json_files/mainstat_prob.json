@@ -1,0 +1,18 @@
+{
+	"HP%": 12,
+	"ATK%": 12,
+	"DEF%": 12,
+	"Elemental Mastery": 3,
+	"Energy Recharge%": 3,
+	"CRIT Rate%": 6,
+	"CRIT DMG%": 6,
+	"Healing Bonus%": 6,
+	"Pyro DMG Bonus%": 5,
+	"Hyro DMG Bonus%": 5,
+	"Cryo DMG Bonus%": 5,
+	"Electro DMG Bonus%": 5,
+	"Anemo DMG Bonus%": 5,
+	"Geo DMG Bonus%": 5,
+	"Dendro DMG Bonus%": 5,
+	"Physical DMG Bonus%": 5
+}

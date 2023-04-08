@@ -1,0 +1,268 @@
+{
+	"clear pool and mountain cavern": [
+		{
+			"artifact": "Bloodstained Chivalry", 
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Item_Bloodstained_Flower_of_Iron.png/revision/latest?cb=20201120063726", 
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Item_Bloodstained_Black_Plume.png/revision/latest?cb=20201120063735",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Bloodstained_Final_Hour.png/revision/latest?cb=20201120063745",
+				"globlet": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Bloodstained_Chevalier%27s_Goblet.png/revision/latest?cb=20201120063755",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Bloodstained_Iron_Mask.png/revision/latest?cb=20201120063804"
+			}
+		}, 
+		{
+			"artifact": "Noblesse Oblige",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Royal_Flora.png/revision/latest?cb=20201120063610",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Royal_Plume.png/revision/latest?cb=20201120063619",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Royal_Pocket_Watch.png/revision/latest?cb=20201120063628",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Royal_Silver_Urn.png/revision/latest?cb=20201120063636", 
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Royal_Masque.png/revision/latest?cb=20201120063649"
+				
+			}
+		}
+	], 
+	"domain of guyun": [
+		{
+			"artifact": "Archaic Petra",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Flower_of_Creviced_Cliff.png/revision/latest?cb=20201120064841",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Feather_of_Jagged_Peaks.png/revision/latest?cb=20201120064919",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Sundial_of_Enduring_Jade.png/revision/latest?cb=20201120064941",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Goblet_of_Chiseled_Crag.png/revision/latest?cb=20201120064951",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Item_Mask_of_Solitude_Basalt.png/revision/latest?cb=20201120065000"
+			}
+		},
+		{
+			"artifact": "Retracing Bolide",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Summer_Night%27s_Bloom.png/revision/latest?cb=20201120064133",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Summer_Night%27s_Finale.png/revision/latest?cb=20201120064151",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Summer_Night%27s_Moment.png/revision/latest?cb=20201120064255",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Item_Summer_Night%27s_Waterballoon.png/revision/latest?cb=20201120064320", 
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Summer_Night%27s_Mask.png/revision/latest?cb=20201120064405"
+			}
+		}
+	],
+	"hidden palace of zhou formula": [
+		{
+			"artifact": "Crimson Witch of Flames",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Witch%27s_Flower_of_Blaze.png/revision/latest?cb=20201120065356", 
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Witch%27s_Ever-Burning_Plume.png/revision/latest?cb=20201120065406",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Witch%27s_End_Time.png/revision/latest?cb=20201120065447", 
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Witch%27s_Heart_Flames.png/revision/latest?cb=20201120065420", 
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Witch%27s_Scorching_Hat.png/revision/latest?cb=20201120065429"
+			}
+		},
+		{
+			"artifact": "Lavawalker",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Lavawalker%27s_Resolution.png/revision/latest?cb=20201120065116", 
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Item_Lavawalker%27s_Salvation.png/revision/latest?cb=20201120065131", 
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Item_Lavawalker%27s_Torment.png/revision/latest?cb=20201120065142", 
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Lavawalker%27s_Epiphany.png/revision/latest?cb=20201120065152", 
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Lavawalker%27s_Wisdom.png/revision/latest?cb=20201120065219"
+			}
+		}
+	],
+	"midsummer courtyard": [
+		{
+			"artifact": "Thundering Fury",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Thunderbird%27s_Mercy.png/revision/latest?cb=20201120064634",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Survivor_of_Catastrophe.png/revision/latest?cb=20201120064643",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Hourglass_of_Thunder.png/revision/latest?cb=20201120064652",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Omen_of_Thunderstorm.png/revision/latest?cb=20201120064701",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Thunder_Summoner%27s_Crown.png/revision/latest?cb=20201120064711"
+			}
+		}, 
+		{
+			"artifact": "Thundersoother",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Thundersoother%27s_Heart.png/revision/latest?cb=20201120065517",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Thundersoother%27s_Plume.png/revision/latest?cb=20201120065527",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Hour_of_Soothing_Thunder.png/revision/latest?cb=20201120065535",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Thundersoother%27s_Goblet.png/revision/latest?cb=20201120065626",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Thundersoother%27s_Diadem.png/revision/latest?cb=20201120065551"
+			}
+		}
+	],
+	"momiji-dyed court": [
+		{
+			"artifact": "Shimenawa's Reminiscence",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Entangling_Bloom.png/revision/latest?cb=20210721030058",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shaft_of_Remembrance.png/revision/latest?cb=20210721030214",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Morning_Dew%27s_Moment.png/revision/latest?cb=20210721030136",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Item_Hopeful_Heart.png/revision/latest?cb=20210721030110",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Capricious_Visage.png/revision/latest?cb=20210721030041"
+			}
+		}, 
+		{
+			"artifact": "Emblem of Severed Fate",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Magnificent_Tsuba.png/revision/latest?cb=20210721030125",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Sundered_Feather.png/revision/latest?cb=20210721030225",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Storm_Cage.png/revision/latest?cb=20210721030223",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Scarlet_Vessel.png/revision/latest?cb=20210721030208",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Ornate_Kabuto.png/revision/latest?cb=20210721030152"
+			}
+		}
+	],
+	"peak of vindagnyr": [
+		{
+			"artifact": "Blizzard Strayer",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Snowswept_Memory.png/revision/latest?cb=20201225230245",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Icebreaker%27s_Resolve.png/revision/latest?cb=20201225230054",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Frozen_Homeland%27s_Demise.png/revision/latest?cb=20201225230234",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Frost-Weaved_Dignity.png/revision/latest?cb=20201225230040",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Item_Broken_Rime%27s_Echo.png/revision/latest?cb=20201225230157"
+			}
+		}, 
+		{
+			"artifact": "Heart of Depth",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Gilded_Corsage.png/revision/latest?cb=20201225230417",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Gust_of_Nostalgia.png/revision/latest?cb=20201225230410",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Item_Copper_Compass.png/revision/latest?cb=20201225230459",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Item_Goblet_of_Thundering_Deep.png/revision/latest?cb=20220202001855",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Wine-Stained_Tricorne.png/revision/latest?cb=20201225230357"
+			}
+		}
+	],
+	"spire of solitary enlightenment": [
+		{
+			"artifact": "Deepwood Memories",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Item_Labyrinth_Wayfarer.png/revision/latest?cb=20220826125326",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Scholar_of_Vines.png/revision/latest?cb=20220824130412",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_A_Time_of_Insight.png/revision/latest?cb=20220824130419",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Lamp_of_the_Lost.png/revision/latest?cb=20220824130432",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Item_Laurel_Coronet.png/revision/latest?cb=20220824130425"
+			}
+		}, 
+		{
+			"artifact": "Gilded Dreams",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Dreaming_Steelbloom.png/revision/latest?cb=20220826125336",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Item_Feather_of_Judgment.png/revision/latest?cb=20220826020553",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_The_Sunken_Years.png/revision/latest?cb=20220826020702",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Honeyed_Final_Feast.png/revision/latest?cb=20220826020730",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Shadow_of_the_Sand_King.png/revision/latest?cb=20220826020755"
+			}
+		}
+	],
+	"slumbering court": [
+		{
+			"artifact": "Husk of Opulent Dreams",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Bloom_Times.png/revision/latest?cb=20211124024926",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Plume_of_Luxury.png/revision/latest?cb=20211124024107",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Song_of_Life.png/revision/latest?cb=20211124024504",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Calabash_of_Awakening.png/revision/latest?cb=20211124024245",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Skeletal_Hat.png/revision/latest?cb=20211124024522"
+			}
+		}, 
+		{
+			"artifact": "Ocean-Hued Clam",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Sea-Dyed_Blossom.png/revision/latest?cb=20211124071311",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Deep_Palace%27s_Plume.png/revision/latest?cb=20211124071302",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Cowry_of_Parting.png/revision/latest?cb=20211124071325",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/f/fc/Item_Pearl_Cage.png/revision/latest?cb=20211124071308",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Crown_of_Watatsumi.png/revision/latest?cb=20211124071327"
+			}
+		}
+	],
+	"valley of remembrance": [
+		{
+			"artifact": "Viridescent Venerer",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_In_Remembrance_of_Viridescent_Fields.png/revision/latest?cb=20201120064508",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Viridescent_Arrow_Feather.png/revision/latest?cb=20201120064516",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Viridescent_Venerer%27s_Determination.png/revision/latest?cb=20201120064525",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Viridescent_Venerer%27s_Vessel.png/revision/latest?cb=20201120064534",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Viridescent_Venerer%27s_Diadem.png/revision/latest?cb=20201120064550"
+			}
+		}, 
+		{
+			"artifact": "Maiden Beloved",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Maiden%27s_Distant_Love.png/revision/latest?cb=20201120063428",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Maiden%27s_Heart-Stricken_Infatuation.png/revision/latest?cb=20201120063437",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Maiden%27s_Passing_Youth.png/revision/latest?cb=20201120063446",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Maiden%27s_Fleeting_Leisure.png/revision/latest?cb=20201120063454",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Item_Maiden%27s_Fading_Beauty.png/revision/latest?cb=20201120063505"
+			}
+		}
+	],
+	"city of gold": [
+		{
+			"artifact": "Desert Pavilion Chronicle",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_The_First_Days_of_the_City_of_Kings.png/revision/latest?cb=20221207030405",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Item_End_of_the_Golden_Realm.png/revision/latest?cb=20221207030358",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Timepiece_of_the_Lost_Path.png/revision/latest?cb=20221207030410",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Defender_of_the_Enchanting_Dream.png/revision/latest?cb=20221207030356",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Legacy_of_the_Desert_High-Born.png/revision/latest?cb=20221207030400"
+			}
+		}, 
+		{
+			"artifact": "Flower of Paradise Lost",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Ay-Khanoum%27s_Myriad.png/revision/latest?cb=20221207030350",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Wilting_Feast.png/revision/latest?cb=20221207030412",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_A_Moment_Congealed.png/revision/latest?cb=20221207030346",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Secret-Keeper%27s_Magic_Bottle.png/revision/latest?cb=20221207030402",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/0/09/Item_Amethyst_Crown.png/revision/latest?cb=20221207030348"
+			}
+		}
+	],
+	"ridge watch": [
+		{
+			"artifact": "Tenacity of the Millelith",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Flower_of_Accolades.png/revision/latest?cb=20210416205617",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Item_Ceremonial_War-Plume.png/revision/latest?cb=20210428200249",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Item_Orichalceous_Time-Dial.png/revision/latest?cb=20210428200248",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Noble%27s_Pledging_Vessel.png/revision/latest?cb=20210428200251",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_General%27s_Ancient_Helm.png/revision/latest?cb=20210428200250"
+			}
+		}, 
+		{
+			"artifact": "Pale Flame",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/e/e7/Item_Stainless_Bloom.png/revision/latest?cb=20210416205644",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Wise_Doctor%27s_Pinion.png/revision/latest?cb=20210428200635",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Moment_of_Cessation.png/revision/latest?cb=20210428200637",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Surpassing_Cup.png/revision/latest?cb=20210428200638",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Mocking_Mask.png/revision/latest?cb=20210428200636"
+			}
+		}
+	],
+	"boss": [
+		{
+			"artifact": "Gladiator's Finale",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Gladiator%27s_Nostalgia.png/revision/latest?cb=20201120063313",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Gladiator%27s_Destiny.png/revision/latest?cb=20201120063322",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Gladiator%27s_Longing.png/revision/latest?cb=20201120063332",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Gladiator%27s_Intoxication.png/revision/latest?cb=20201120063342",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Gladiator%27s_Triumphus.png/revision/latest?cb=20201120063353"
+			}
+		}, 
+		{
+			"artifact": "Wanderer's Troupe",
+			"image": {
+				"flower": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Troupe%27s_Dawnlight.png/revision/latest?cb=20201120063930",
+				"plume": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Bard%27s_Arrow_Feather.png/revision/latest?cb=20201120063940",
+				"sand": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Concert%27s_Final_Hour.png/revision/latest?cb=20201120063951",
+				"goblet": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wanderer%27s_String-Kettle.png/revision/latest?cb=20201120064002",
+				"circlet": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Conductor%27s_Top_Hat.png/revision/latest?cb=20201120064011"
+			}
+		}
+	]
+	
+}
